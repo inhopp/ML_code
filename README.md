@@ -1,6 +1,6 @@
 # Image Style Transfer
 
-![paper1-23](https://user-images.githubusercontent.com/96368476/153046444-7823543b-bca8-4ec9-8bb6-3a589b671fa8.jpg){: width="60%" height="70%" .align-center}
+![paper1-23](https://user-images.githubusercontent.com/96368476/153046444-7823543b-bca8-4ec9-8bb6-3a589b671fa8.jpg)
 
 - [논문 정리](https://inhopp.github.io/paper/Paper1/)
 - [Tutorial Code]()
